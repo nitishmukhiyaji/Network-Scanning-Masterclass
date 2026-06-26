@@ -3,7 +3,11 @@
 > A structured reference on network reconnaissance, port scanning, and vulnerability discovery concepts — covering ASN/CIDR enumeration, host discovery, port scanning, Nmap, and authorized-testing methodology.
 
 ---
+<p align="center">
+  <img src="network%20scanning%20master.png" alt="Network Scanning Masterclass" width="100%">
+</p>
 
+# 🛰️ Network Scanning & Recon Concepts — Field Guide
 ## ⚠️ Read This First
 
 This guide explains **how network reconnaissance tools and techniques work** so you can understand the methodology used in authorized penetration testing, bug bounty programs, and your own infrastructure audits.
